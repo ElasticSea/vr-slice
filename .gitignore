@@ -38,3 +38,5 @@ sysinfo.txt
 # Ignore Rider
 .idea/
 Assets/Plugins/Editor/JetBrains/
+
+Logs/
